@@ -1,0 +1,6 @@
+sep=,
+Item Name,Item Description,Item Image,Cost,Level Required
+<Kitten>,<I am fluffy>,<String>,5,2
+<Can>,<Is this safe to drink?>,<String>,2,1
+<Dog>,<Where did this come from?>,<String>,1,3
+<IceCream>,<For a hot day>,<String>,2,1

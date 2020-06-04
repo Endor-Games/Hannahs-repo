@@ -1,0 +1,6 @@
+﻿  GroupWorkNow.cpp
+d:\hannahs-repo\code\groupworknow\groupworknow\groupworknow.cpp(50): warning C4018: '<': signed/unsigned mismatch
+d:\hannahs-repo\code\groupworknow\groupworknow\groupworknow.cpp(86): warning C4018: '<': signed/unsigned mismatch
+  ShopItems.cpp
+  Generating Code...
+  GroupWorkNow.vcxproj -> D:\Hannahs-repo\Code\GroupWorkNow\Debug\GroupWorkNow.exe
